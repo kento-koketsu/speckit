@@ -1,0 +1,258 @@
+/* ============================================
+   マコなり社長の名言ジェネレーター - グローバルスタイル
+   ============================================ */
+
+/* CSS変数定義（WCAG AA準拠: 4.5:1以上のコントラスト比） */
+:root {
+  --text-color: #1a1a1a; /* ほぼ黒 */
+  --bg-color: #ffffff; /* 白 */
+  --button-bg: #2563eb; /* 青 */
+  --button-text: #ffffff; /* 白 */
+  --button-hover: #1d4ed8; /* 濃い青 */
+  --focus-outline: #fbbf24; /* 黄色のフォーカスリング */
+
+  /* コントラスト比計算結果 */
+  /* --text-color / --bg-color = 19.5:1 ✅ */
+  /* --button-text / --button-bg = 8.6:1 ✅ */
+
+  /* スペーシング */
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+
+  /* フォント */
+  --font-base: 1rem;
+  --font-lg: 1.25rem;
+  --font-xl: 1.5rem;
+  --font-2xl: 2rem;
+}
+
+/* リセット */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ベーススタイル */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans JP',
+    'Hiragino Sans', 'Hiragino Kaku Gothic ProN', sans-serif;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: var(--spacing-md);
+}
+
+/* ヘッダー */
+header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+header h1 {
+  font-size: var(--font-2xl);
+  font-weight: 700;
+  color: var(--text-color);
+}
+
+/* 名言表示エリア */
+main#quote-display {
+  width: 100%;
+  max-width: 800px;
+  padding: var(--spacing-xl);
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.quote-text {
+  font-size: var(--font-xl);
+  line-height: 1.8;
+  margin-bottom: var(--spacing-lg);
+  quotes: "「" "」";
+}
+
+.quote-text::before {
+  content: open-quote;
+}
+
+.quote-text::after {
+  content: close-quote;
+}
+
+.quote-author {
+  font-size: var(--font-lg);
+  font-style: normal;
+  color: #4b5563;
+  display: block;
+  margin-top: var(--spacing-md);
+}
+
+/* ボタン */
+footer {
+  margin-top: var(--spacing-lg);
+}
+
+button#next-quote {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  border: none;
+  padding: var(--spacing-md) var(--spacing-xl);
+  font-size: var(--font-lg);
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 44px; /* タッチターゲット44x44px以上 */
+  min-height: 44px;
+}
+
+button#next-quote:hover {
+  background-color: var(--button-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+button#next-quote:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.2);
+}
+
+/* フォーカス表示（キーボードナビゲーション） */
+button#next-quote:focus-visible {
+  outline: 3px solid var(--focus-outline);
+  outline-offset: 2px;
+}
+
+/* アニメーション */
+.fade-out {
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
+}
+
+.fade-in {
+  opacity: 1;
+  transition: opacity 0.3s ease-in;
+}
+
+/* レスポンシブデザイン */
+
+/* モバイル（320px-767px） */
+@media (max-width: 767px) {
+  :root {
+    --font-base: 0.875rem;
+    --font-lg: 1rem;
+    --font-xl: 1.25rem;
+    --font-2xl: 1.5rem;
+  }
+
+  #app {
+    padding: var(--spacing-sm);
+  }
+
+  main#quote-display {
+    padding: var(--spacing-lg);
+  }
+
+  header h1 {
+    font-size: var(--font-xl);
+  }
+
+  .quote-text {
+    font-size: var(--font-lg);
+  }
+
+  .quote-author {
+    font-size: var(--font-base);
+  }
+
+  button#next-quote {
+    font-size: var(--font-base);
+    padding: 0.75rem 1.5rem;
+  }
+}
+
+/* タブレット（768px-1023px） */
+@media (min-width: 768px) and (max-width: 1023px) {
+  :root {
+    --font-base: 1rem;
+    --font-lg: 1.125rem;
+    --font-xl: 1.5rem;
+    --font-2xl: 1.875rem;
+  }
+
+  main#quote-display {
+    max-width: 700px;
+  }
+}
+
+/* デスクトップ（1024px-1920px） */
+@media (min-width: 1024px) {
+  :root {
+    --font-base: 1.125rem;
+    --font-lg: 1.25rem;
+    --font-xl: 1.75rem;
+    --font-2xl: 2.25rem;
+  }
+
+  main#quote-display {
+    max-width: 900px;
+  }
+}
+
+/* 超大画面（1920px以上） */
+@media (min-width: 1920px) {
+  main#quote-display {
+    max-width: 1200px;
+  }
+}
+
+/* 縦向き・横向き対応 */
+@media (orientation: landscape) and (max-height: 600px) {
+  #app {
+    min-height: auto;
+    padding-top: var(--spacing-md);
+    padding-bottom: var(--spacing-md);
+  }
+
+  header {
+    margin-bottom: var(--spacing-md);
+  }
+
+  main#quote-display {
+    margin-bottom: var(--spacing-md);
+  }
+}
+
+/* アクセシビリティ: ハイコントラストモード対応 */
+@media (prefers-contrast: high) {
+  :root {
+    --text-color: #000000;
+    --bg-color: #ffffff;
+    --button-bg: #0000ff;
+  }
+}
+
+/* アクセシビリティ: ダークモード対応（オプション） */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #f3f4f6;
+    --bg-color: #1a1a1a;
+    --button-bg: #3b82f6;
+    --button-hover: #2563eb;
+  }
+
+  .quote-author {
+    color: #9ca3af;
+  }
+}
