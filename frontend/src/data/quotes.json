@@ -1,358 +1,356 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "source_url": "https://www.underwater-festival.com/yj00365/",
   "quotes": [
     {
       "id": "quote-001",
-      "text": "行動しない人に成功はない。小さくてもいいから、今日から動き出そう。",
+      "text": "常識人間を捨てる。",
       "author": "マコなり社長",
-      "date": "2024-01",
-      "source": "YouTube: ビジネスで成功する秘訣",
-      "context": "起業初期の心構えについて"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "岡本太郎氏の影響を受けた起業の決意"
     },
     {
       "id": "quote-002",
-      "text": "失敗を恐れるな。失敗は成功への最短ルートだ。",
+      "text": "上等じゃねえか。",
       "author": "マコなり社長",
-      "date": "2024-02",
-      "source": "YouTube: 失敗から学ぶ方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "困難や試練に対する前向きな姿勢"
     },
     {
       "id": "quote-003",
-      "text": "時間は誰にも平等。使い方で人生が変わる。",
+      "text": "iPad Pro（+ Magic Keyboard）持っていないのはパンツ履いてないのと同じ。",
       "author": "マコなり社長",
-      "date": "2024-03",
-      "source": "YouTube: 時間管理の極意",
-      "context": "生産性向上のテクニックについて"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "生産性向上のためのツールの重要性"
     },
     {
       "id": "quote-004",
-      "text": "完璧を目指すな。完了を目指せ。",
+      "text": "良い組織を作るには、とにかく「合わない人を入れない」に尽きる。後から人を変えるのは難しい。",
       "author": "マコなり社長",
-      "date": "2024-04",
-      "source": "YouTube: 生産性を高める方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "組織づくりの基本原則"
     },
     {
       "id": "quote-005",
-      "text": "やりたいことをやるために、やらなければいけないことをやる。",
+      "text": "理不尽な目にあった瞬間、つらい瞬間「これは私が選んだ道だ」と誇りを持つ「勇気」があるか。そこに尽きる。",
       "author": "マコなり社長",
-      "date": "2024-05",
-      "source": "YouTube: 人生の優先順位"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "困難に立ち向かう勇気"
     },
     {
       "id": "quote-006",
-      "text": "お金を稼ぐことは悪いことじゃない。お金は人を幸せにするツールだ。",
+      "text": "身近な創造性の高い人はいつも会社にいない。戦略的に「会社の外に出る機会」を増やすと、誰でも創造性は上がる。",
       "author": "マコなり社長",
-      "date": "2024-06",
-      "source": "YouTube: お金の本質",
-      "context": "お金と幸福の関係について"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "創造性を高める方法"
     },
     {
       "id": "quote-007",
-      "text": "学ぶことをやめたら、成長することをやめる。",
+      "text": "自分と違う人を尊重して対話することから逃げてはいけない。どんな人にも「常識を語る権利」はない。",
       "author": "マコなり社長",
-      "date": "2024-07",
-      "source": "YouTube: 学び続けることの重要性"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "多様性と対話の重要性"
     },
     {
       "id": "quote-008",
-      "text": "人は変われる。変わろうと決めた瞬間から変わり始める。",
+      "text": "90％は主体性も粘り強さもない。感情優先、挑戦しない、すぐ諦める。行動する理由は「みんながやっているから」。",
       "author": "マコなり社長",
-      "date": "2024-08",
-      "source": "YouTube: 自己変革の方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "多くの人の行動パターンへの指摘"
     },
     {
       "id": "quote-009",
-      "text": "やらない理由を探すより、やる方法を考えろ。",
+      "text": "正義の反対は別の正義。相手の正義を知ることが第一歩。",
       "author": "マコなり社長",
-      "date": "2024-09",
-      "source": "YouTube: 行動力を高める"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "相手の視点を理解することの重要性"
     },
     {
       "id": "quote-010",
-      "text": "本気で生きろ。人生は一度きりだ。",
+      "text": "自分の身の回りに起きるすべての出来事は構造と運で出来ていると捉えることです。",
       "author": "マコなり社長",
-      "date": "2024-10",
-      "source": "YouTube: 人生を本気で生きる"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "構造思考の考え方"
     },
     {
       "id": "quote-011",
-      "text": "今日できることを明日に延ばすな。",
+      "text": "普通はこうやるべきだよねという自分の思考のバイアスから解き放たれて、より本質的な問題解決ができるようになります。",
       "author": "マコなり社長",
-      "date": "2023-01",
-      "source": "YouTube: 先延ばし癖を直す方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "思考のバイアスから解放される"
     },
     {
       "id": "quote-012",
-      "text": "自分を信じることが、成功への第一歩だ。",
+      "text": "考えたものが全て成功するなら世の中億万長者だらけ。人生そんなに甘くない。",
       "author": "マコなり社長",
-      "date": "2023-02",
-      "source": "YouTube: 自信を持つ方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "現実的な成功への視点"
     },
     {
       "id": "quote-013",
-      "text": "失敗したら、そこから学べばいい。恐れることはない。",
+      "text": "成功の基準を経済的なモノに置くと欲望は際限なく出てくる。成功は「自分のやりたい事をやりきる」と掲げれば揺るがない。",
       "author": "マコなり社長",
-      "date": "2023-03",
-      "source": "YouTube: 失敗を恐れない生き方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "成功の定義"
     },
     {
       "id": "quote-014",
-      "text": "人生で一番大切なのは、自分が何をしたいかを知ることだ。",
+      "text": "人が悩む時＝過去や他人に感情が向いている。大切なのは「自分がこれからどうするか」。",
       "author": "マコなり社長",
-      "date": "2023-04",
-      "source": "YouTube: やりたいことの見つけ方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "悩みへの対処法"
     },
     {
       "id": "quote-015",
-      "text": "環境のせいにするな。環境は自分で変えられる。",
+      "text": "「これから苦しむんだ」と恐れるより「世の中の辛いことに比べたら大したことない」と思っていたほうが楽。",
       "author": "マコなり社長",
-      "date": "2023-05",
-      "source": "YouTube: 環境を変える力"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "不安への向き合い方"
     },
     {
       "id": "quote-016",
-      "text": "成功するまでやり続ければ、失敗はない。",
+      "text": "人生の過去話には限りがある。新しい情報価値を作り続けられる能力が求められる。発信者が生き残るには編集者でなければならない。",
       "author": "マコなり社長",
-      "date": "2023-06",
-      "source": "YouTube: 諦めない心"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "発信者として生き残る方法"
     },
     {
       "id": "quote-017",
-      "text": "自分の時間を大切にしろ。他人の時間を生きるな。",
+      "text": "ぶっちぎる前に人と比べる無意味さを悟れる人は幸せ。それに気づけることが人生の最終到達地点。",
       "author": "マコなり社長",
-      "date": "2023-07",
-      "source": "YouTube: 時間の使い方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "他人との比較について"
     },
     {
       "id": "quote-018",
-      "text": "やらないで後悔するより、やって後悔しろ。",
+      "text": "「これをやったらいいのでは？」と仮説を持って動く。大抵見当違いで絶望するが、動くことで別のチャンスが見える。今いる場所から動かないと新しい景色は見えない。",
       "author": "マコなり社長",
-      "date": "2023-08",
-      "source": "YouTube: 挑戦する勇気"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "行動することの重要性"
     },
     {
       "id": "quote-019",
-      "text": "最高の投資は、自分自身への投資だ。",
+      "text": "すべての人を満足させるのは不可能。誰かの不満を覚悟しないと最高の満足はつくれない。",
       "author": "マコなり社長",
-      "date": "2023-09",
-      "source": "YouTube: 自己投資の重要性"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "価値提供の本質"
     },
     {
       "id": "quote-020",
-      "text": "目標を持たない人生は、船で海に出るようなものだ。",
+      "text": "行動するには感情が動く「納得」が必要。読書とは心を動かす体験。",
       "author": "マコなり社長",
-      "date": "2023-10",
-      "source": "YouTube: 目標設定の方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "読書と行動の関係"
     },
     {
       "id": "quote-021",
-      "text": "小さな習慣の積み重ねが、大きな成果を生む。",
+      "text": "プログラミングが難しいんじゃねぇ、人間が難しいんだ。",
       "author": "マコなり社長",
-      "date": "2023-11",
-      "source": "YouTube: 習慣化の力"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "技術よりも人間関係の難しさ"
     },
     {
       "id": "quote-022",
-      "text": "他人と比較するな。昨日の自分と比較しろ。",
+      "text": "議論が好きな人種と共感が好きな人をつなぐのは「個人的な評価」。",
       "author": "マコなり社長",
-      "date": "2023-12",
-      "source": "YouTube: 成長の測り方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "異なるタイプの人をつなぐもの"
     },
     {
       "id": "quote-023",
-      "text": "できない理由を並べるな。できる方法を考えろ。",
+      "text": "「マイノリティを助けなきゃ」という考え方が既に差別的。多様性を認め合える社会に必要なのは「無関心」。",
       "author": "マコなり社長",
-      "date": "2022-01",
-      "source": "YouTube: ポジティブ思考"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "多様性についての考え方"
     },
     {
       "id": "quote-024",
-      "text": "挑戦しないことが、最大のリスクだ。",
+      "text": "ノウハウなんて大して重要じゃない。いつの時代も「実践し続けて自ら学ぶ人間」が勝つ。",
       "author": "マコなり社長",
-      "date": "2022-02",
-      "source": "YouTube: リスクの考え方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "実践の重要性"
     },
     {
       "id": "quote-025",
-      "text": "人生は短い。やりたいことは今すぐやれ。",
+      "text": "（最高の預言者になる方法）「あの事業は失敗する」と言い続ける。",
       "author": "マコなり社長",
-      "date": "2022-03",
-      "source": "YouTube: 人生の時間"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "批判者の特徴への皮肉"
     },
     {
       "id": "quote-026",
-      "text": "言い訳をする暇があったら、行動しろ。",
+      "text": "（最高の応援者になる方法）失敗した人に「ナイストライ！」と声をかける。",
       "author": "マコなり社長",
-      "date": "2022-04",
-      "source": "YouTube: 言い訳をやめる"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "失敗を応援する姿勢"
     },
     {
       "id": "quote-027",
-      "text": "知識は力だ。学び続けることが成長の鍵だ。",
+      "text": "新しいことをやると反省の繰り返し。これが唯一の成功への道。",
       "author": "マコなり社長",
-      "date": "2022-05",
-      "source": "YouTube: 学習の重要性"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "成功への道のり"
     },
     {
       "id": "quote-028",
-      "text": "失敗は恥ずかしいことじゃない。挑戦しないことが恥ずかしい。",
+      "text": "「自分が正しい」と考えた瞬間から「学び」は終わる。",
       "author": "マコなり社長",
-      "date": "2022-06",
-      "source": "YouTube: 失敗の価値"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "学び続ける姿勢"
     },
     {
       "id": "quote-029",
-      "text": "自分の人生は自分で決める。誰かの指示を待つな。",
+      "text": "感謝の一言が人生を変える。誰もが今日、今すぐにできる。",
       "author": "マコなり社長",
-      "date": "2022-07",
-      "source": "YouTube: 主体的に生きる"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "感謝の重要性"
     },
     {
       "id": "quote-030",
-      "text": "努力は裏切らない。続ければ必ず結果が出る。",
+      "text": "若造だと舐めた態度を取られた人たちの信用は二度と取り戻せない。彼らは自分で捨てた。",
       "author": "マコなり社長",
-      "date": "2022-08",
-      "source": "YouTube: 努力の大切さ"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "相手を尊重することの大切さ"
     },
     {
       "id": "quote-031",
-      "text": "夢は語るものじゃない。実現するものだ。",
+      "text": "判断は自分の影響力の範囲内だけに留める。判断が減ればストレスも無くなる。",
       "author": "マコなり社長",
-      "date": "2022-09",
-      "source": "YouTube: 夢を叶える方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "ストレス管理の方法"
     },
     {
       "id": "quote-032",
-      "text": "自分を変えたいなら、今すぐ行動しろ。",
+      "text": "キャリアチェンジでは「経験」を取る。実力がつけば収入もプライベートも後からコントロールできる。",
       "author": "マコなり社長",
-      "date": "2022-10",
-      "source": "YouTube: 変化を起こす"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "キャリア選択の基準"
     },
     {
       "id": "quote-033",
-      "text": "できるかできないかじゃない。やるかやらないかだ。",
+      "text": "対談・ディスカッションは退屈に見られやすい。ゲストは1人で準備して情報密度濃く。",
       "author": "マコなり社長",
-      "date": "2022-11",
-      "source": "YouTube: 決断力"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "コンテンツ制作のコツ"
     },
     {
       "id": "quote-034",
-      "text": "成功の秘訣は、シンプルなことを継続することだ。",
+      "text": "アンチをつくれない人は、誰の記憶にも残らない。",
       "author": "マコなり社長",
-      "date": "2022-12",
-      "source": "YouTube: 継続の力"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "影響力を持つことの代償"
     },
     {
       "id": "quote-035",
-      "text": "人生において、無駄な経験なんて一つもない。",
+      "text": "自分の頭で考えない人は、一生猿真似で得るものはない。",
       "author": "マコなり社長",
-      "date": "2021-01",
-      "source": "YouTube: 経験の価値"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "自分で考えることの重要性"
     },
     {
       "id": "quote-036",
-      "text": "周りの目を気にするな。自分の信じる道を進め。",
+      "text": "僕はダメ人間だから効率化にこだわるんです。",
       "author": "マコなり社長",
-      "date": "2021-02",
-      "source": "YouTube: 自分らしく生きる"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "効率化へのこだわり"
     },
     {
       "id": "quote-037",
-      "text": "困難は成長のチャンスだ。逃げるな、立ち向かえ。",
+      "text": "道具が進化しても人間の欲に終わりはない。",
       "author": "マコなり社長",
-      "date": "2021-03",
-      "source": "YouTube: 困難を乗り越える"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "人間の本質"
     },
     {
       "id": "quote-038",
-      "text": "今の自分は、過去の自分が作り上げたものだ。",
+      "text": "「自分のやりたいことが分からない」人はずっとマサラタウンにいる人。一度次の町へ行けば「やりたいことしかない」と気づく。",
       "author": "マコなり社長",
-      "date": "2021-04",
-      "source": "YouTube: 自己責任"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "やりたいことを見つける方法"
     },
     {
       "id": "quote-039",
-      "text": "批判を恐れるな。批判されるということは、注目されているということだ。",
+      "text": "他人の目が気になるなら突き進まなければいい。「突き抜けた人」は批判されないことが嫌で仕方ない人たち。",
       "author": "マコなり社長",
-      "date": "2021-05",
-      "source": "YouTube: 批判との向き合い方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "突き抜ける覚悟"
     },
     {
       "id": "quote-040",
-      "text": "人生で一番大切なのは、健康と時間だ。",
+      "text": "数千万円～数億円の収入で喜ぶのは「恥ずかしい」。社会を変えるほどのインパクトを与えたか？まだ何もやっていない。",
       "author": "マコなり社長",
-      "date": "2021-06",
-      "source": "YouTube: 人生の優先順位"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "真の成功の定義"
     },
     {
       "id": "quote-041",
-      "text": "結果が出ないのは、やり方が間違っているか、やる量が足りないかだ。",
+      "text": "多様な意見がある中で明確なポジションを取るから価値がある。僕は自分のやるべきことに集中する。それが最高の「オシャレ」。",
       "author": "マコなり社長",
-      "date": "2021-07",
-      "source": "YouTube: 結果を出す方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "明確な立場を持つこと"
     },
     {
       "id": "quote-042",
-      "text": "自分の強みを活かせ。弱みを直すことに時間を使うな。",
+      "text": "人は生まれながらに最高に幸せ。今この瞬間に世界一幸せになれるかは「勇気」の問題。",
       "author": "マコなり社長",
-      "date": "2021-08",
-      "source": "YouTube: 強みを伸ばす"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "幸せの本質"
     },
     {
       "id": "quote-043",
-      "text": "人間関係で悩むな。合わない人とは距離を置け。",
+      "text": "言いたいことを言えない原因は「勇気」不足ではない。相手をリスペクトした「伝え方の訓練」が不足しているだけ。",
       "author": "マコなり社長",
-      "date": "2021-09",
-      "source": "YouTube: 人間関係の悩み"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "コミュニケーションスキル"
     },
     {
       "id": "quote-044",
-      "text": "今日が人生で一番若い日だ。今すぐ始めろ。",
+      "text": "理想までの道のりは人の数だけ。合理性の誤差より本人が100％納得して腹を括って進むことが大切。",
       "author": "マコなり社長",
-      "date": "2021-10",
-      "source": "YouTube: 今すぐ始める"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "個々の道の重要性"
     },
     {
       "id": "quote-045",
-      "text": "成功者は、失敗を恐れない。失敗から学ぶことを知っている。",
+      "text": "「恥をかくこと」に勝る自己価値向上法はない。恥をかけない常識人間になってはいけない。",
       "author": "マコなり社長",
-      "date": "2021-11",
-      "source": "YouTube: 成功者の考え方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "成長のための恥"
     },
     {
       "id": "quote-046",
-      "text": "やりたいことが見つからないなら、まず動け。動けば見えてくる。",
+      "text": "真に優秀な先生は科目を好きにさせてくれる。興味を与える。",
       "author": "マコなり社長",
-      "date": "2021-12",
-      "source": "YouTube: やりたいことの見つけ方"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "優れた教育者の条件"
     },
     {
       "id": "quote-047",
-      "text": "人生は選択の連続だ。後悔しない選択をしろ。",
+      "text": "教育とは一人で学べる状態まで自立させること。自立まで責任を持ち粘り強くコミットする。",
       "author": "マコなり社長",
-      "date": "2020-01",
-      "source": "YouTube: 選択と決断"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "教育の本質"
     },
     {
       "id": "quote-048",
-      "text": "自分に嘘をつくな。正直に生きろ。",
+      "text": "人にやる気は存在しない。あるのは「構造」だけ。そう考えると建設的に進む。",
       "author": "マコなり社長",
-      "date": "2020-02",
-      "source": "YouTube: 正直に生きる"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "やる気の構造的理解"
     },
     {
       "id": "quote-049",
-      "text": "目標を達成するには、具体的な計画と行動が必要だ。",
+      "text": "「ありがとう」の見返りを求める姿勢は他人への執着になる。仕事の報酬は評価やお金ではなく「自分がやり抜いたか」。",
       "author": "マコなり社長",
-      "date": "2020-03",
-      "source": "YouTube: 目標達成の方法"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "仕事の本当の報酬"
     },
     {
       "id": "quote-050",
-      "text": "人生において、最も価値があるのは経験だ。",
+      "text": "説明しようとすると「無知」を痛感する。「理解している」と思った瞬間に学びは終わる。",
       "author": "マコなり社長",
-      "date": "2020-04",
-      "source": "YouTube: 経験の価値"
+      "source": "https://www.underwater-festival.com/yj00365/",
+      "context": "学び続ける姿勢"
     }
   ]
 }
