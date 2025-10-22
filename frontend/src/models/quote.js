@@ -10,7 +10,6 @@
  * @property {string} id - 名言の一意識別子（例: "quote-001"）
  * @property {string} text - 名言本文（1〜500文字）
  * @property {string} author - 著者名（固定値: "マコなり社長"）
- * @property {string} date - 発言日（YYYY-MM形式、内部管理用）
  * @property {string} source - 出典情報（内部管理用、UI非表示）
  * @property {string} [context] - 発言の背景情報（任意、内部管理用）
  */
@@ -43,8 +42,6 @@ export function isValidQuote(data) {
     data.text.length >= 1 &&
     data.text.length <= 500 &&
     data.author === 'マコなり社長' &&
-    typeof data.date === 'string' &&
-    /^\d{4}-\d{2}$/.test(data.date) &&
     typeof data.source === 'string' &&
     data.source.length > 0 &&
     (data.context === undefined || typeof data.context === 'string')
